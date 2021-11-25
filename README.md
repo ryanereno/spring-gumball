@@ -21,7 +21,7 @@
 
 ![creating lb](https://user-images.githubusercontent.com/56413249/143497160-290f09e0-103a-406d-9c36-d97d6e87e27e.png)
 
-![LB](https://user-images.githubusercontent.com/56413249/143497415-e310d1ed-16f3-496d-8d4a-f39f70c54fee.png)
+![image](https://user-images.githubusercontent.com/56413249/143497513-fecaa80c-d5a7-40a1-adca-f68686653d4a.png)
 
 ![image](https://user-images.githubusercontent.com/56413249/143497471-71e96df2-e1d6-45bf-bc41-1beaab9f896a.png)
 
