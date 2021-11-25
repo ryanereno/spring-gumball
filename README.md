@@ -21,4 +21,7 @@
 
 ![creating lb](https://user-images.githubusercontent.com/56413249/143497160-290f09e0-103a-406d-9c36-d97d6e87e27e.png)
 
+![LB](https://user-images.githubusercontent.com/56413249/143497415-e310d1ed-16f3-496d-8d4a-f39f70c54fee.png)
+
 ![spring gumball working](https://user-images.githubusercontent.com/56413249/143497165-b1a5e519-ebea-4498-8855-f6aca2c8b3fa.png)
+
